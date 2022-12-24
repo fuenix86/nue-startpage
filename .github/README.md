@@ -20,7 +20,7 @@ Github has a lot of startpage repos. However, the vast majority of them are slow
 * Slap all of your bookmarks into a single js object
 * Bookmark groups
 * Keyboard shortcuts to each bookmark link (inspired by [tilde](https://github.com/xvvvyz/tilde))
-* 100% guaranteed to work with any screen/window size and not look broken.
+* 100% guaranteed to work with any screen/window size and not look broken, I swear.
 * NO BLOATED FRAMEWORK!
 
 ## Installation
@@ -33,3 +33,6 @@ Regarding the configuration in script.js, all the needed/optional values are inc
 
 ## Anything else?
 Feel free to contribute, and if you share this or use some part of it in your own work, please give credit.
+
+Some things that should be worked on:
+* A user-editable configuration (so making changes are much easier)
